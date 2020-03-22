@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookListRazor", "BookListRazor\BookListRazor.csproj", "{865F1CB8-77D7-4C0F-85BA-B42F851467BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spice", "Spice\Spice.csproj", "{550EBFD6-9118-4D96-95A4-D76D1FBD6A69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{865F1CB8-77D7-4C0F-85BA-B42F851467BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{865F1CB8-77D7-4C0F-85BA-B42F851467BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{865F1CB8-77D7-4C0F-85BA-B42F851467BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{865F1CB8-77D7-4C0F-85BA-B42F851467BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{550EBFD6-9118-4D96-95A4-D76D1FBD6A69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{550EBFD6-9118-4D96-95A4-D76D1FBD6A69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{550EBFD6-9118-4D96-95A4-D76D1FBD6A69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{550EBFD6-9118-4D96-95A4-D76D1FBD6A69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {648A9D5F-EC6D-4D63-A21C-FF1FFC5DB3AD}
+	EndGlobalSection
+EndGlobal
