@@ -23,5 +23,18 @@ namespace Spice.Areas.Admin.Controllers
         {
             return View(await _db.Category.ToListAsync());
         }
+
+        //GET CREATE
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+        //[HttpPost]
+        //public async Task<IActionResult> Create()
+        //{
+        //    return View(await _db.Category.Add());
+        //}
+
     }
 }
